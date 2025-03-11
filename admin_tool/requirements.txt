@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+mysql-connector-python==8.3.0
+pillow==10.2.0
+pandas==2.2.1
+bcrypt==4.1.2
+python-dotenv==1.0.1 
